@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Brian DO FF',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'O meu siteé bueda fixolas o Dtchita não 😛😛',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
