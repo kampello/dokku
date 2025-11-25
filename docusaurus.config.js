@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Brian DO FF',
   tagline: 'O meu siteé bueda fixolas o Dtchita não 😛😛',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.jpg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
